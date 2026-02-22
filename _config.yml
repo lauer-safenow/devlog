@@ -1,8 +1,16 @@
-title: Andi Lauer Blog
-description: Dev log and blog posts
+title: Andi's Dev Blog Log
+description: blog about software development, programming and other fun topics
 theme: minima
 
 minima:
   skin: dark
+  social_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/andreaslauer"
+    - title: Email
+      icon: envelope
+      type: solid
+      url: "mailto:andreaslauer90@googlemail.com"
 url: "https://lauer-safenow.github.io"
 baseurl: "/devlog"

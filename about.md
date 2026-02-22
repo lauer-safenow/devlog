@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-About Andi Lauer.
+Hallo willkommen. Dies ist mein Jeckyll github blog. Mal schauen obs dabei bleibt. <br>Persönliche Ideen, CV, blog posts etc etc
