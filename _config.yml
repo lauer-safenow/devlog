@@ -1,5 +1,8 @@
 title: Andi Lauer Blog
 description: Dev log and blog posts
 theme: minima
+
+minima:
+  skin: dark
 url: "https://lauer-safenow.github.io"
 baseurl: "/devlog"
