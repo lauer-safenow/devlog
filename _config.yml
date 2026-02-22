@@ -1,0 +1,5 @@
+title: Andi Lauer Blog
+description: Dev log and blog posts
+theme: minima
+url: "https://lauer-safenow.github.io"
+baseurl: "/devlog"
