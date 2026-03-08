@@ -4,9 +4,23 @@ title: Projects
 permalink: /projects/
 ---
 
-### RBTVOD
-Scan RBTV API and make it searchable in a cool way.<br>
+## RBTVOD
+Scan RBTV API and make it searchable in a cool way.
+
+
 [RBTVOD](https://rbtvod-app.vercel.app/)
 
-### Another still secret Project
+
+![rbtvod](/public/projects/images/rbtvod.png)
+
+
+## Screen Paint0r and Point0r
+Draw on your screen. Point at things with a laser. Screenshots with annotations. All without switching apps.
+
+https://github.com/lauer-safenow/screen-paint0r
+
+![Screen Paint0r](/public/projects/images/screen-paint0r.png)
+
+
+### Another still very secret Project
 Description here
