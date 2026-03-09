@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-## RBTVOD
-Scan RBTV API and make it searchable in a cool way.
+# ~ RBTVOD ~
+Search for the Rocketbeans Youtube Archive
 
 
 [RBTVOD](https://rbtvod-app.vercel.app/)
@@ -14,8 +14,9 @@ Scan RBTV API and make it searchable in a cool way.
 ![rbtvod](/assets/images/rbtvod.png)
 
 
-## Screen Paint0r and Point0r
-Draw on your screen. Point at things with a laser. Screenshots with annotations. All without switching apps.
+
+# ~ Screen Paint0r and Point0r ~
+Paint&Point on your screen
 
 https://github.com/lauer-safenow/screen-paint0r
 

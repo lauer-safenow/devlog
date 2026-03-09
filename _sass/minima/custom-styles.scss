@@ -10,3 +10,24 @@
     justify-content: center;
   }
 }
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.4em;
+  }
+
+  .post-link {
+    font-size: 1rem;
+  }
+
+  .post-meta {
+    white-space: nowrap;
+    margin-left: 1em;
+  }
+}
