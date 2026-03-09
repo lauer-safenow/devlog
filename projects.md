@@ -11,7 +11,7 @@ Scan RBTV API and make it searchable in a cool way.
 [RBTVOD](https://rbtvod-app.vercel.app/)
 
 
-![rbtvod](/public/projects/images/rbtvod.png)
+![rbtvod](/assets/images/rbtvod.png)
 
 
 ## Screen Paint0r and Point0r
@@ -19,7 +19,7 @@ Draw on your screen. Point at things with a laser. Screenshots with annotations.
 
 https://github.com/lauer-safenow/screen-paint0r
 
-![Screen Paint0r](/public/projects/images/screen-paint0r.png)
+![Screen Paint0r](/assets/images/screen-paint0r.png)
 
 
 ### Another still very secret Project
