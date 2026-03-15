@@ -15,7 +15,7 @@ Dieser Tage bin ich bei SafeNow - wir arbeiten an der Vision die persönliche Si
 Nebenbei schreibe ich auch kleinere Leidenschaft-Projekte (sog. PASSION-Projects) und veröffentliche sie hier.
 
 Falls mich etwas sehr interessiert schreibe ich auch einen Blog eintrag darüber.
-Alles Texte 100% ohne AI — versprochen 🚀🚀🚀 (em dash 3 emojis).
+Alle Texte 100% ohne AI — versprochen 🚀🚀🚀 (em dash 3 emojis).
 
 Deutsche Projekte auf deutsch, allgemein vllt. eher auf Englisch glaub.
 
