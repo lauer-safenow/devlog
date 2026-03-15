@@ -12,5 +12,11 @@ minima:
       icon: envelope
       type: solid
       url: "mailto:andreaslauer90@googlemail.com"
+    - title: GitHub
+      icon: github
+      url: "https://github.com/lauer-safenow"
+    - title: Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/echtandi.bsky.social"
 url: "https://andi2.com"
 baseurl: ""
