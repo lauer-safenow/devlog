@@ -11,7 +11,7 @@ Search for the Rocketbeans Youtube Archive
 [RBTVOD](https://rbtvod-app.vercel.app/)
 
 
-![rbtvod](/assets/images/rbtvod.png)
+![rbtvod](/assets/images/projects/rbtvod.png)
 
 #### ~~~~~~~~~~~~~
 
@@ -20,7 +20,7 @@ Paint&Point on your screen
 
 https://github.com/lauer-safenow/screen-paint0r
 
-![Screen Paint0r](/assets/images/screen-paint0r.png)
+![Screen Paint0r](/assets/images/projects/screen-paint0r.png)
 
 #### ~~~~~~~~~~~~~
 
