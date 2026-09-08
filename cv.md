@@ -1,3 +1,11 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
+[Download CV as PDF]({{ "/assets/cv/cv.pdf" | relative_url }}){:download}
+
 Andreas Lauer  
 andreaslauer90@gmail.com | linkedin.com/in/andreaslauer | andi2.com
 
